@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <windows.h>
 #include <conio.h>
-
+//trying what is fork and what is used for
 int main()
 {
 	int i, j;
